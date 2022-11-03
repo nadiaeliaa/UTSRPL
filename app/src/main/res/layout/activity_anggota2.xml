@@ -12,7 +12,7 @@
     tools:context=".Anggota1">
 
     <ImageView
-        android:id="@+id/foto_5"
+        android:id="@+id/foto"
         android:layout_width="211dp"
         android:layout_height="184dp"
         android:layout_gravity="center"
@@ -22,7 +22,7 @@
         tools:srcCompat="@tools:sample/avatars" />
 
     <TextView
-        android:id="@+id/nama_5"
+        android:id="@+id/nama"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
@@ -32,18 +32,18 @@
         android:textSize="30sp" />
 
     <TextView
-        android:id="@+id/prodi_5"
+        android:id="@+id/prodi"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
         android:gravity="center"
-        android:text="@string/prodi_1"
+        android:text="@string/prodi_2"
         android:textColor="#090909"
         android:textSize="24sp" />
 
     <TextView
-        android:id="@+id/nim_5"
+        android:id="@+id/nim"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -54,7 +54,7 @@
         android:textSize="24sp" />
 
     <TextView
-        android:id="@+id/alamat_5"
+        android:id="@+id/alamat"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -65,7 +65,7 @@
         android:textSize="24sp" />
 
     <TextView
-        android:id="@+id/email_5"
+        android:id="@+id/email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
