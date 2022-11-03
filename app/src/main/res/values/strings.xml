@@ -22,5 +22,12 @@
     <string name="nim_1">V3421068</string>
     <string name="alamat_1">Surakarta, Jawa Tengah</string>
     <string name="email_1">nadiaeliamaharani@gmail.com</string>
-    
+
+    <string name="foto_2"></string>
+    <string name="nama_2">Renna Aprilia</string>
+    <string name="prodi_2">Teknik Informatika</string>
+    <string name="nim_2">V3421080</string>
+    <string name="alamat_2">Depok, Jawa Barat</string>
+    <string name="email_2">rennaaprilia@gmail.com</string>
+
 </resources>
