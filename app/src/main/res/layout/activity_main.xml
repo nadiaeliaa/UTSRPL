@@ -31,61 +31,61 @@
 
     <TextView
         android:id="@+id/anggota_1"
-        android:layout_width="match_parent"
+        android:layout_width="377dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:layout_marginTop="60dp"
-        android:gravity="center"
         android:text="@string/anggota_1"
         android:textColor="#000000"
         android:textSize="25sp" />
 
     <TextView
         android:id="@+id/anggota_2"
-        android:layout_width="match_parent"
+        android:layout_width="377dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="0dp"
-        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
         android:text="@string/anggota_2"
         android:textColor="#000000"
         android:textSize="25sp" />
 
     <TextView
         android:id="@+id/anggota_3"
-        android:layout_width="match_parent"
+        android:layout_width="377dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="0dp"
-        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
         android:text="@string/anggota_3"
         android:textColor="#000000"
         android:textSize="25sp" />
 
     <TextView
         android:id="@+id/anggota_4"
-        android:layout_width="match_parent"
+        android:layout_width="377dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="0dp"
-        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
         android:text="@string/anggota_4"
         android:textColor="#000000"
         android:textSize="25sp" />
 
     <TextView
         android:id="@+id/anggota_5"
-        android:layout_width="match_parent"
+        android:layout_width="377dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="0dp"
-        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
         android:text="@string/anggota_5"
         android:textColor="#020202"
         android:textSize="25sp" />
 
     <Button
         android:id="@+id/btn_next"
-        android:layout_width="301dp"
-        android:layout_height="74dp"
+        android:layout_width="279dp"
+        android:layout_height="48dp"
         android:layout_gravity="center"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="60dp"
         android:text="@string/btn_next"
-        android:textSize="34sp" />
+        android:textSize="24sp" />
 
 </LinearLayout>
