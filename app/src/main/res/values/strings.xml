@@ -22,32 +22,5 @@
     <string name="nim_1">V3421068</string>
     <string name="alamat_1">Surakarta, Jawa Tengah</string>
     <string name="email_1">nadiaeliamaharani@gmail.com</string>
-
-    <string name="foto_2"></string>
-    <string name="nama_2">Renna Aprilia</string>
-    <string name="prodi_2">Teknik Informatika</string>
-    <string name="nim_2">V3421080</string>
-    <string name="alamat_2">Depok, Jawa Barat</string>
-    <string name="email_2">rennaaprilia@gmail.com</string>
-
-    <string name="foto_3"></string>
-    <string name="nama_3">Septian Adi Pamungkas</string>
-    <string name="prodi_3">Teknik Informatika</string>
-    <string name="nim_3">V3421087</string>
-    <string name="alamat_3">Karanganyar, Jawa Tengah</string>
-    <string name="email_3">septianadi141@gmail.com</string>
-
-    <string name="foto_4"></string>
-    <string name="nama_4">Xyla Syarifatuzzahra</string>
-    <string name="prodi_4">Teknik Informatika</string>
-    <string name="nim_4">V3421093</string>
-    <string name="alamat_4">Pacitan, Jawa Timur</string>
-    <string name="email_4">xylaa27@gmail.com</string>
-
-    <string name="foto_5"></string>
-    <string name="nama_5">Yoga Ernowibowo</string>
-    <string name="prodi_5">Teknik Informatika</string>
-    <string name="nim_5">V3421094</string>
-    <string name="alamat_5">Pacitan, Jawa Timur</string>
-    <string name="email_5">yogaerno77@gmail.com</string>
+    
 </resources>
