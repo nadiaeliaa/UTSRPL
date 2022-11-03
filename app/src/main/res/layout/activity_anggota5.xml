@@ -49,7 +49,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
         android:gravity="center"
-        android:text="@string/nim_3"
+        android:text="@string/nim_5"
         android:textColor="#090909"
         android:textSize="24sp" />
 
@@ -60,7 +60,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
         android:gravity="center"
-        android:text="@string/alamat_3"
+        android:text="@string/alamat_5"
         android:textColor="#090909"
         android:textSize="24sp" />
 
@@ -71,7 +71,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
         android:gravity="center"
-        android:text="@string/email_3"
+        android:text="@string/email_5"
         android:textColor="#070707"
         android:textSize="24sp" />
 
