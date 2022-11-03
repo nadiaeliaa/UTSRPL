@@ -26,15 +26,17 @@
         android:gravity="center_horizontal"
         android:text="@string/nama_kelompok"
         android:textColor="#0B0A0A"
-        android:textSize="30sp" />
+        android:textSize="34sp"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/anggota_1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="60dp"
         android:gravity="center"
         android:text="@string/anggota_1"
+        android:textColor="#000000"
         android:textSize="25sp" />
 
     <TextView
@@ -44,6 +46,7 @@
         android:layout_marginTop="0dp"
         android:gravity="center"
         android:text="@string/anggota_2"
+        android:textColor="#000000"
         android:textSize="25sp" />
 
     <TextView
@@ -53,6 +56,7 @@
         android:layout_marginTop="0dp"
         android:gravity="center"
         android:text="@string/anggota_3"
+        android:textColor="#000000"
         android:textSize="25sp" />
 
     <TextView
@@ -62,6 +66,7 @@
         android:layout_marginTop="0dp"
         android:gravity="center"
         android:text="@string/anggota_4"
+        android:textColor="#000000"
         android:textSize="25sp" />
 
     <TextView
@@ -71,14 +76,16 @@
         android:layout_marginTop="0dp"
         android:gravity="center"
         android:text="@string/anggota_5"
+        android:textColor="#020202"
         android:textSize="25sp" />
 
     <Button
         android:id="@+id/btn_next"
-        android:layout_width="282dp"
-        android:layout_height="wrap_content"
+        android:layout_width="301dp"
+        android:layout_height="74dp"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
-        android:text="@string/btn_next" />
+        android:text="@string/btn_next"
+        android:textSize="34sp" />
 
 </LinearLayout>
