@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/logouns"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:contentDescription="@string/logouns"
+        app:srcCompat="@drawable/uns"
+        tools:ignore="ImageContrastCheck,ImageContrastCheck" />
+
+    <TextView
+        android:id="@+id/nama_kelompok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|center_horizontal|center_vertical"
+        android:layout_marginTop="50dp"
+        android:gravity="center_horizontal"
+        android:text="@string/nama_kelompok"
+        android:textColor="#0B0A0A"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/anggota_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:text="@string/anggota_1"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/anggota_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="@string/anggota_2"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/anggota_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="@string/anggota_3"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/anggota_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="@string/anggota_4"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/anggota_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="@string/anggota_5"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="282dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="@string/btn_next" />
+
+</LinearLayout>
