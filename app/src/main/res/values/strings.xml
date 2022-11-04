@@ -37,4 +37,18 @@
     <string name="alamat_3">Matesih, Karanganyar, Jawa Tengah</string>
     <string name="email_3">adipamungkas141@student.uns.ac.id</string>
     
+    <string name="foto_4"></string>
+    <string name="nama_4">Xyla Syarifatuzzahra A</string>
+    <string name="prodi_4">Teknik Informatika</string>
+    <string name="nim_4">V3421093</string>
+    <string name="alamat_4">Pacitan</string>
+    <string name="email_4">xylaa27@student.uns.ac.id</string>
+    
+    <string name="foto_3"></string>
+    <string name="nama_3">Yoga Erno Wibowo</string>
+    <string name="prodi_3">Teknik Informatika</string>
+    <string name="nim_3">V3421094</string>
+    <string name="alamat_3">Pacitan</string>
+    <string name="email_3">yogaerno77@student.uns.ac.id</string>
+    
 </resources>
