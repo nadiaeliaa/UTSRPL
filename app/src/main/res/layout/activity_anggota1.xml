@@ -12,7 +12,7 @@
     tools:context=".Anggota1">
 
     <ImageView
-        android:id="@+id/foto"
+        android:id="@+id/fotoq"
         android:layout_width="211dp"
         android:layout_height="184dp"
         android:layout_gravity="center"
